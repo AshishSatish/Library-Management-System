@@ -1,3 +1,11 @@
 # Library Management System
-This is a Mini Voting system that allows you to Cast Vote and Display Result. 
-The program allows users to cast their votes for one of four candidates: Ashish, Rushikesh, Ritesh, and Vikas. It employs a menu-driven interface with options to cast a vote, display the voting results, and exit the program. The castVote function ensures that users can only vote for valid candidates and records their votes accordingly. The displayResults function presents a summary of the votes each candidate has received, providing transparency in the election process. Lastly, the displayWinner function determines the winner by comparing the number of votes each candidate received and displays the name of the winning candidate. Overall, this project offers a basic but functional voting system that can be a useful starting point for more complex voting systems or simulations.
+The provided C program implements a basic library management system using doubly linked lists. It allows users to perform operations such as adding books, borrowing books, returning books, and displaying the library and student requests.
+The program defines two structures: Book and StudentRequest, which are used to represent books in the library and student borrowing requests, respectively. It maintains a global doubly linked list of books and a separate list for student requests.
+The main functionalities of the program include:
+Adding a new book to the library
+Allowing students to borrow books
+Allowing students to return borrowed books
+Displaying all books in the library
+Displaying active student requests
+The program also includes an interactive menu-driven interface that allows users to select different options for managing the library.
+This program demonstrates the use of data structures like doubly linked lists for managing book records and student requests efficiently.
