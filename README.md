@@ -1,3 +1,3 @@
-# First_Year_Voting_System_Project
+# Library Management System
 This is a Mini Voting system that allows you to Cast Vote and Display Result. 
 The program allows users to cast their votes for one of four candidates: Ashish, Rushikesh, Ritesh, and Vikas. It employs a menu-driven interface with options to cast a vote, display the voting results, and exit the program. The castVote function ensures that users can only vote for valid candidates and records their votes accordingly. The displayResults function presents a summary of the votes each candidate has received, providing transparency in the election process. Lastly, the displayWinner function determines the winner by comparing the number of votes each candidate received and displays the name of the winning candidate. Overall, this project offers a basic but functional voting system that can be a useful starting point for more complex voting systems or simulations.
